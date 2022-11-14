@@ -1,6 +1,6 @@
 # Firewall_Rules_to_CSV
 
-prototype code to provision L3 and L7 firewall rules to selected Meraki networks
+prototype code to output L3 and L7 firewall rules from Dashboard to JSON and CSV files.
 
 ## Contacts
 
