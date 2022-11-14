@@ -64,7 +64,7 @@ L3 Firewall Rules CSV & JSON
 
 ![/IMAGES/L3_Rules_JSON.png](/IMAGES/L3_Rules_JSON.png)
 
-L3 Firewall Rules CSV & JSON
+L7 Firewall Rules CSV & JSON
 
 ![/IMAGES/L7_Rules_CSV.png](/IMAGES/L7_Rules_CSV.png)
 
